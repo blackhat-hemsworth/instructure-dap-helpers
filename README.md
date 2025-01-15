@@ -10,4 +10,4 @@ Prerequisites:
 1. You still need the [instructure-dap-client](https://pypi.org/project/instructure-dap-client/) downloaded to get credentials pass to the data import functions. 
 
 
-![test-tidying](https://github.com/blackhat-hemsworth/instructure-dap-helpers/blob/3295c64ff1726eb59b7a983f20d4bcfacb6952c8/.github/workflows/tests.yml/badge.svg)
+![test-tidying](https://github.com/blackhat-hemsworth/instructure-dap-helpers/.github/workflows/tests.yml/badge.svg)
